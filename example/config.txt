@@ -1,0 +1,2 @@
+Prefix plugins/Reactome/example/
+Plugin Reactome inputfile pten outputfile results.txt
