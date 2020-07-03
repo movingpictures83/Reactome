@@ -1,8 +1,9 @@
+# Reactome
 # Language: Python
 # Input: Reactome Query
-# Dependency: PyPathway
 # Output: TXT
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: pypathway==0.4.0
 
 Query the Reactome database (Fabregat et al, 2017).
 
